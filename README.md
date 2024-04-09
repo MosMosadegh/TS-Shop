@@ -13,7 +13,7 @@ Currently, two official plugins are available:
 ###
 
 <div align="center">
-  <img  src="https://github.com/MosMosadegh/TS-Shop/blob/master/public/images/cover.jpg"  />
+  <img  src="https://github.com/MosMosadegh/TS-Shop/blob/main/public/images/cover.jpg"  />
 </div>
 
 ###
@@ -39,6 +39,8 @@ Currently, two official plugins are available:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
   
 </div>
 
@@ -49,7 +51,7 @@ Currently, two official plugins are available:
 ###
 <p align="left">
 This web application is designed for a coffee shop, providing features that allow users to add and remove products to their shopping cart. The application incorporates categorized pages for easy navigation and utilizes the useContext functionality to optimize data management.
-<br><br><h3>Tailwind CSS</h3> Integrating Tailwind CSS enabled rapid prototyping of UI components and facilitated responsive design principles, accelerating the development process.
+<br><br>
 </p>
 
 ###
